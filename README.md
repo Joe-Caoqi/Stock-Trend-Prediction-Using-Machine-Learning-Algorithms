@@ -1,2 +1,5 @@
 # cis520project
-Machine Learning Course Project
+  
+### Data Processing
+Raw data downloaded from
+https://www.kaggle.com/gunhee/amdgoogle#GOOGL.csv
