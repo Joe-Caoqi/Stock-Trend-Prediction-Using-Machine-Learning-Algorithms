@@ -1,5 +1,12 @@
 # cis520project
-  
+### Data
+* raw data of four stocks
+* processed data of four stocks
 ### Data Processing
-Raw data downloaded from
-https://www.kaggle.com/gunhee/amdgoogle#GOOGL.csv
+* Cleaned raw data
+* Created new features
+
+### Time Series model
+### XGBoost mode
+### SVM
+### Neural Network
