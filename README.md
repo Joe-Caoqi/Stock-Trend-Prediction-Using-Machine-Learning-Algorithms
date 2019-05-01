@@ -1,5 +1,5 @@
-# cis520project
-# Stock Price Trend Prediction
+# Stock-Trend-Prediction-Using-Machine-Learning-Algorithms
+## CIS520 Project
 ### Data
 * raw data of four stocks
 * processed data of four stocks
