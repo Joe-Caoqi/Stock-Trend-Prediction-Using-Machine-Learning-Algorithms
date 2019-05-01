@@ -1,4 +1,5 @@
 # cis520project
+# Stock Price Trend Prediction
 ### Data
 * raw data of four stocks
 * processed data of four stocks
